@@ -11,6 +11,7 @@ int win = 0;
 // 0 = stone
 // 1 = paper
 // 2 = scissor
+// if you choose any other number then code show error
 
 printf("choose 0 for stone,1 for paper,2 for scissor : ");
 scanf("%d", &player);
